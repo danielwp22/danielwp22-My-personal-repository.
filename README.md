@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on AI robotics
+- 🌱 I’m currently learning C++
+
 <!--
 **DanielWP22/DanielWP22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
