@@ -4,6 +4,10 @@ I’m Daniel, a physics graduate and aspiring engineer, currently diving deep in
 
 This GitHub repository is where I showcase my technical projects, share my coding journey, and explore innovative ideas. Whether it’s training neural networks, analyzing data, or designing mechanical systems, I’m passionate about turning complex challenges into solutions.
 
+🌐 Let’s Connect!
+LinkedIn: linkedin.com/in/daniel-palin
+Email: daniel.palin@mail.utoronto.ca
+
 <!--
 **DanielWP22/DanielWP22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
