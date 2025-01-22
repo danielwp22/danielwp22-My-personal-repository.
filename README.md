@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Machine Learning Projects
+I’m Daniel, a physics graduate and aspiring engineer, currently diving deep into the fascinating world of machine learning, AI, and engineering physics. Starting in Fall 2025, I’ll be pursuing my Master of Engineering in Engineering Physics at McMaster University.
+
+This GitHub repository is where I showcase my technical projects, share my coding journey, and explore innovative ideas. Whether it’s training neural networks, analyzing data, or designing mechanical systems, I’m passionate about turning complex challenges into solutions.
 
 <!--
 **DanielWP22/DanielWP22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
