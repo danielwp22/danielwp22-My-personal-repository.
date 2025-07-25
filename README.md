@@ -1,20 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Palin
 
-I’m Daniel, a physics graduate and aspiring engineer, currently diving deep into the fascinating world of machine learning, AI, and engineering physics. Starting in Fall 2025, I’ll be pursuing my Masters in Mechanical Engineering at Queen's University.
+I'm a physics graduate and incoming Master's student in Mechanical Engineering at Queen's University. I'm passionate about robotics, deep learning, and building intelligent systems that solve real-world problems through autonomy and data-driven decision-making.
 
-This GitHub repository is where I showcase my technical projects, share my coding journey, and explore innovative ideas. Whether it’s training neural networks, analyzing data, or designing mechanical systems, I’m passionate about turning complex challenges into solutions.
+- 🤖 Currently building robots with **ROS 2**, **LiDAR**, and **SLAM**
+- 🧠 Exploring reinforcement learning and sim-to-real robotics
+- 💡 Interested in AI for physical systems, control, and embedded robotics
+- 🎓 Preparing for my MEng in Fall 2025 with a focus on automation and locomotion
 
-<!--
-**DanielWP22/DanielWP22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🔹 [Autonomous SLAM Robot](https://github.com/danielwp22/ros2-navigation-bot)
+> A real-world 2-wheel robot with LiDAR, ROS 2, and SLAM. Fully autonomous path planning using Nav2.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 [Blackjack RL Agent](https://github.com/danielwp22/blackjack-rl-agent)
+> A deep Q-learning agent trained to beat the house in Gymnasium's blackjack environment using PyTorch.
+
+### 🔹 [Four-Leaf Clover Classifier](https://github.com/danielwp22/four-leaf-clover-classification)
+> An image classifier trained on a self-collected clover dataset using ResNet18. Achieved 80% accuracy.
+
+### 🔹 [Cracked Concrete Classifier](https://github.com/danielwp22/cracked-concrete-classifier)
+> Detects cracked vs uncracked concrete surfaces using a ResNet model. Achieved 99% validation accuracy.
+
+## 🛠️ Tech Stack
+
+```python
+Languages     = [Python, C++, HTML]
+Frameworks    = [PyTorch, ROS 2, Gymnasium]
+Tools         = [Arduino, MATLAB, Gazebo, RViz, OpenCV, Git, Bash, Linux]
+```
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-w-palin/)
+- 🔗 [Portfolio Website](https://danielpalin.github.io)
+- 📧 **Email:** danwillpalin@gmail.com
